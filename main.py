@@ -2,7 +2,7 @@
 import pyomo.environ as pyo
 from pyomo.environ import *
 from pyomo.opt import SolverFactory
-
+#asdasdasd as
 model = pyo.ConcreteModel()
 i = ['malanga', 'platano']
 j = [30, 42]
